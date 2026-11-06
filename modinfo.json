@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 1,
+  "id": "tex.resource-silo",
+  "name": "Resource Silo",
+  "version": "1.8.1",
+  "apiVersion": 1,
+  "entry": "main.js",
+  "description": "Unlimited single-material Resource and Gas Silos. Resource Silos integrate stored Gold, Liquid Gold, and Gold Granulate with the native Gold balance so it can be spent normally.",
+  "author": "Tex",
+  "dependencies": [],
+  "loadOrder": 50,
+  "gameVersion": {
+    "minimum": "0.5.5",
+    "maximum": "0.6.0"
+  }
+}
